@@ -1,0 +1,5 @@
+{
+  "env": {
+    "TODOIST_API_KEY": "@todoist-api-key"
+  }
+}
